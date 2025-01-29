@@ -1,5 +1,3 @@
-# Pooja-Patil-Dissertation-21434-Agile-Framework
-
 This repository is designed to help users understand and implement the CD/CS framework within their organizations. 
 
 The project is titled: "Integration of Agile Approach into the Implementation of ISO/SAE 21434 on Top of the V-Model to Enable Continuous Secure-by-Design Automotive Cybersecurity Development."
